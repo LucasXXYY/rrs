@@ -1,0 +1,8 @@
+{
+  "name": "RRS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b333fd83"
+}
